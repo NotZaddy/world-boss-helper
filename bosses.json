@@ -28,5 +28,12 @@
     "name": "Yunaras",
     "huntingZoneId": [52, 6553652, 13107252],
     "templateId": 9050
-  }
+  },
+  {
+    "name": "Event",
+    "huntingZoneId": [5],
+    "templateId": 4
+  },
+
+
 ]
